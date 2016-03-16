@@ -1,2 +1,6 @@
 # flower
 The flowers which are growing in canvas...
+
+It looks like ...
+
+![image](https://github.com/shalldie/flower/blob/master/img/GIF.gif)
