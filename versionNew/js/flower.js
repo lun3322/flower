@@ -48,7 +48,7 @@ var Flower;
                 var p = this_1.points[i];
                 q.will(function () {
                     new Flower.Flower(p.x, p.y, _this.ctx).draw();
-                });
+                }).delay(50);
             };
             var this_1 = this;
             for (var i = 0, len = this.points.length; i < len; i++) {

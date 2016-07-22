@@ -23,7 +23,7 @@ namespace Flower {
                 let p = this.points[i];
                 q.will(() => {
                     new Flower(p.x, p.y, this.ctx).draw();
-                });
+                }).delay(50);
             }
             q.dequeue();
         }
