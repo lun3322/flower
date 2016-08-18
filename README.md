@@ -2,7 +2,7 @@
 The flowers which are growing in canvas...
 
 The path formula of love comes from the network.
-爱心的路径公式来源于网络
+爱心的路径公式来源于网络 >>    [公式](http://www.wolframalpha.com/input/?i=x+%3D+16+sin%5E3+t,+y+%3D+(13+cos+t+-+5+cos+2t+-+2+cos+3t+-+cos+4t))
 
 Sorry for my Math...  0.0
 
